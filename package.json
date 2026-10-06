@@ -1,0 +1,9 @@
+{
+  "name": "datavision-app",
+  "version": "1.0.0",
+  "description": "Aplicación Node.js para práctica AWS DataVision",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
